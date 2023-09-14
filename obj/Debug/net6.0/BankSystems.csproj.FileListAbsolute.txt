@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\BankSystems.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\BankSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\BankSystems.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\BankSystems.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\BankSystems.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\BankSystems.exe
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\BankSystems.deps.json
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\BankSystems.runtimeconfig.json
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\BankSystems.dll
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\BankSystems.pdb
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\BankSystems.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\BankSystems.dll
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\BankSystems.dll
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\BankSystems.pdb
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\BankSystems.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\New folder\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\BankSystems.dll
